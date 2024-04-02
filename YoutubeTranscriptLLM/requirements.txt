@@ -1,0 +1,7 @@
+python_dotenv
+langchain
+langchain_openai
+langchain_community
+faiss_cpu
+faiss_gpu
+youtube_transcript_api
