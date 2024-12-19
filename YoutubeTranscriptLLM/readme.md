@@ -2,7 +2,6 @@
 This project utilizes Langchain to generate responses to questions based on YouTube video transcripts.
 
 ## How to Use
-
 1. **Clone the Repo:**
 
    ```bash
